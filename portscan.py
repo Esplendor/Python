@@ -1,4 +1,5 @@
 #!/usr/bin/python
+#PortScan by Esplendor
 import socket,sys
 
 argv = str(input("Type your target: "))
